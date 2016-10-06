@@ -1,4 +1,4 @@
-# base from sparklyballs
+# base from sparklyballs  !!
 FROM hurricane/dockergui:x11rdp1.2
 
 # set variables
